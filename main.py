@@ -10,6 +10,8 @@ import flask_monitoringdashboard as dashboard
 from predictFromModel import prediction
 import json
 
+
+
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
 
